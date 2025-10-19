@@ -1,0 +1,5 @@
+{
+  "name": "Shining Profits AI Product Images",
+  "description": "An AI-powered application for generating message card jewelry product images. Admins can upload product mockups with green screens, and users can upload message cards to generate final product images using Gemini.",
+  "requestFramePermissions": []
+}
